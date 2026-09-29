@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">คุณเปิดแอปนี้มาทำไม?</string>
+    <string name="question">คุณเปิดแอปนี้มาทำไม?</string>
+    <string name="dont_know">ไม่รู้</string>
+    <string name="answer">ผมก็ไม่รู้เหมือนกัน</string>
+    <string name="exit">ออก</string>
+</resources>
